@@ -1,0 +1,33 @@
+.page-advantages {
+ display: block;
+}
+
+.page-advantages__advantages {
+  display: inline-block;
+  margin-top: 2.5rem;
+}
+
+.page-advantages__advantage {
+  display: block;
+  text-align: center;
+  float: left;
+  width: 30%;
+  margin-left: 5%;
+}
+
+.page-advantages__advantage:first-of-type {
+  margin-left: 0px;
+}
+
+.page-advantages__title {
+  margin-top: 0.9375rem;
+  font-size: 1.25rem;
+  color: #010101;
+}
+
+.page-advantages__description {
+  margin-top: 0.9375rem;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  color: #010101;
+}

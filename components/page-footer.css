@@ -1,0 +1,14 @@
+.page-footer {
+  display: flex;
+  height: 5rem;
+  background: #595959;
+  color: #fff;
+  text-align: right;
+  line-height: 1rem;
+  margin-top: 4.375rem;
+}
+
+.page-footer__autor {
+  height: auto;
+  padding-top: 0.5rem;
+}
